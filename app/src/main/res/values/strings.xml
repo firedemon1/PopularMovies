@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Popular Movies</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="sort_movies_label_popular">Popular</string>
+    <string name="sort_movies_label_top">Top Rated</string>
+    <string name="sort_movies_popular">popular</string>
+    <string name="sort_movies_top">top_rated</string>
+    <string name="sort_movies_label">Sort Movies</string>
+    <string name="sort_movies_key">sort_movies</string>
+    <string name="image_url">http://image.tmdb.org/t/p/w185//</string>
+    <string name="base_url">http://api.themoviedb.org/3/movie/</string>
+    <string name="query">/?</string>
 </resources>
